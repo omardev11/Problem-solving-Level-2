@@ -1,0 +1,4 @@
+﻿  problem 46.cpp
+E:\apps\c++\programing advice course\solving problems level 2\problem 46\problem 46\problem 46.cpp(15,16): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\apps\c++\programing advice course\solving problems level 2\problem 46\problem 46\problem 46.cpp(18,20): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  problem 46.vcxproj -> E:\apps\c++\programing advice course\solving problems level 2\problem 46\x64\Debug\problem 46.exe

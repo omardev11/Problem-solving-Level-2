@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\apps\\c\u002B\u002B\\programing advice course\\solving problems level 2\\problem 26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD73EFC-4BB8-429D-8294-2A93CFA25897}|problem 26\\problem 26.vcxproj|E:\\apps\\c\u002B\u002B\\programing advice course\\solving problems level 2\\problem 26\\problem 26\\problem 26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5AD73EFC-4BB8-429D-8294-2A93CFA25897}|problem 26\\problem 26.vcxproj|solutionrelative:problem 26\\problem 26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "problem 26.cpp",
+              "DocumentMoniker": "E:\\apps\\c\u002B\u002B\\programing advice course\\solving problems level 2\\problem 26\\problem 26\\problem 26.cpp",
+              "RelativeDocumentMoniker": "problem 26\\problem 26.cpp",
+              "ToolTip": "E:\\apps\\c\u002B\u002B\\programing advice course\\solving problems level 2\\problem 26\\problem 26\\problem 26.cpp",
+              "RelativeToolTip": "problem 26\\problem 26.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-12-26T08:30:13.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

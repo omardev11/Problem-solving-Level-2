@@ -1,0 +1,4 @@
+﻿  problem 29.cpp
+E:\apps\c++\programing advice course\solving problems level 2\problem 29\problem 29\problem 29.cpp(7,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\apps\c++\programing advice course\solving problems level 2\problem 29\problem 29\problem 29.cpp(68,42): warning C4101: 'array2': unreferenced local variable
+  problem 29.vcxproj -> E:\apps\c++\programing advice course\solving problems level 2\problem 29\x64\Debug\problem 29.exe

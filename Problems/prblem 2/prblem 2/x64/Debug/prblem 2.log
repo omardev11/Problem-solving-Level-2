@@ -1,0 +1,4 @@
+﻿  prblem 2.cpp
+E:\apps\c++\programing advice course\solving problems level 2\prblem 2\prblem 2\prblem 2.cpp(19,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\apps\c++\programing advice course\solving problems level 2\prblem 2\prblem 2\prblem 2.cpp(50,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  prblem 2.vcxproj -> E:\apps\c++\programing advice course\solving problems level 2\prblem 2\x64\Debug\prblem 2.exe
